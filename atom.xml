@@ -4,10 +4,10 @@
     <name>TamaGorengs</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
-  <icon>https://tamagorengs.github.io/icon.png</icon>
-  <id>https://tamagorengs.github.io/</id>
-  <link href="https://tamagorengs.github.io/" rel="alternate"/>
-  <link href="https://tamagorengs.github.io/atom.xml" rel="self"/>
+  <icon>https://tamagorengs.com/icon.png</icon>
+  <id>https://tamagorengs.com/</id>
+  <link href="https://tamagorengs.com/" rel="alternate"/>
+  <link href="https://tamagorengs.com/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, TamaGorengs</rights>
   <title>Tamago Security</title>
   <updated>2026-06-01T03:24:22.289Z</updated>
@@ -15,16 +15,16 @@
     <author>
       <name>TamaGorengs</name>
     </author>
-    <category term="mindset" scheme="https://tamagorengs.github.io/categories/mindset/"/>
-    <category term="philosophy" scheme="https://tamagorengs.github.io/categories/mindset/philosophy/"/>
-    <category term="shitpost-with-substance" scheme="https://tamagorengs.github.io/categories/mindset/philosophy/shitpost-with-substance/"/>
-    <category term="redteam" scheme="https://tamagorengs.github.io/tags/redteam/"/>
-    <category term="pentest" scheme="https://tamagorengs.github.io/tags/pentest/"/>
-    <category term="adler" scheme="https://tamagorengs.github.io/tags/adler/"/>
-    <category term="burnout" scheme="https://tamagorengs.github.io/tags/burnout/"/>
-    <category term="courage-to-be-disliked" scheme="https://tamagorengs.github.io/tags/courage-to-be-disliked/"/>
-    <id>https://tamagorengs.github.io/2026/06/01/What-The-Courage-to-Be-Disliked-Taught-Me-About-Pentesting/</id>
-    <link href="https://tamagorengs.github.io/2026/06/01/What-The-Courage-to-Be-Disliked-Taught-Me-About-Pentesting/"/>
+    <category term="mindset" scheme="https://tamagorengs.com/categories/mindset/"/>
+    <category term="philosophy" scheme="https://tamagorengs.com/categories/mindset/philosophy/"/>
+    <category term="shitpost-with-substance" scheme="https://tamagorengs.com/categories/mindset/philosophy/shitpost-with-substance/"/>
+    <category term="redteam" scheme="https://tamagorengs.com/tags/redteam/"/>
+    <category term="pentest" scheme="https://tamagorengs.com/tags/pentest/"/>
+    <category term="adler" scheme="https://tamagorengs.com/tags/adler/"/>
+    <category term="burnout" scheme="https://tamagorengs.com/tags/burnout/"/>
+    <category term="courage-to-be-disliked" scheme="https://tamagorengs.com/tags/courage-to-be-disliked/"/>
+    <id>https://tamagorengs.com/2026/06/01/What-The-Courage-to-Be-Disliked-Taught-Me-About-Pentesting/</id>
+    <link href="https://tamagorengs.com/2026/06/01/What-The-Courage-to-Be-Disliked-Taught-Me-About-Pentesting/"/>
     <published>2026-05-31T16:00:00.000Z</published>
     <summary>
       <![CDATA[<h2 id="TL-DR"><a href="#TL-DR" class="headerlink" title="TL;DR"></a>TL;DR</h2><ul>
@@ -37,12 +37,12 @@
     <author>
       <name>TamaGorengs</name>
     </author>
-    <category term="General" scheme="https://tamagorengs.github.io/categories/General/"/>
-    <category term="Career" scheme="https://tamagorengs.github.io/tags/Career/"/>
-    <category term="Productivity" scheme="https://tamagorengs.github.io/tags/Productivity/"/>
-    <category term="Notes" scheme="https://tamagorengs.github.io/tags/Notes/"/>
-    <id>https://tamagorengs.github.io/2026/05/24/Obsidian-for-Hackers-How-I-Organize-My-Security-Brain/</id>
-    <link href="https://tamagorengs.github.io/2026/05/24/Obsidian-for-Hackers-How-I-Organize-My-Security-Brain/"/>
+    <category term="General" scheme="https://tamagorengs.com/categories/General/"/>
+    <category term="Career" scheme="https://tamagorengs.com/tags/Career/"/>
+    <category term="Productivity" scheme="https://tamagorengs.com/tags/Productivity/"/>
+    <category term="Notes" scheme="https://tamagorengs.com/tags/Notes/"/>
+    <id>https://tamagorengs.com/2026/05/24/Obsidian-for-Hackers-How-I-Organize-My-Security-Brain/</id>
+    <link href="https://tamagorengs.com/2026/05/24/Obsidian-for-Hackers-How-I-Organize-My-Security-Brain/"/>
     <published>2026-05-24T04:30:00.000Z</published>
     <summary>
       <![CDATA[<p><strong>I once spent 20 minutes on a red team engagement searching for a Mimikatz command I had definitely written down]]>
@@ -54,14 +54,14 @@
     <author>
       <name>TamaGorengs</name>
     </author>
-    <category term="Writeups" scheme="https://tamagorengs.github.io/categories/Writeups/"/>
-    <category term="HackTheBox" scheme="https://tamagorengs.github.io/categories/Writeups/HackTheBox/"/>
-    <category term="HTB" scheme="https://tamagorengs.github.io/tags/HTB/"/>
-    <category term="Linux" scheme="https://tamagorengs.github.io/tags/Linux/"/>
-    <category term="LFI" scheme="https://tamagorengs.github.io/tags/LFI/"/>
-    <category term="Privilege Escalation" scheme="https://tamagorengs.github.io/tags/Privilege-Escalation/"/>
-    <id>https://tamagorengs.github.io/2026/03/03/HTB-Facts-Writeup/</id>
-    <link href="https://tamagorengs.github.io/2026/03/03/HTB-Facts-Writeup/"/>
+    <category term="Writeups" scheme="https://tamagorengs.com/categories/Writeups/"/>
+    <category term="HackTheBox" scheme="https://tamagorengs.com/categories/Writeups/HackTheBox/"/>
+    <category term="HTB" scheme="https://tamagorengs.com/tags/HTB/"/>
+    <category term="Linux" scheme="https://tamagorengs.com/tags/Linux/"/>
+    <category term="LFI" scheme="https://tamagorengs.com/tags/LFI/"/>
+    <category term="Privilege Escalation" scheme="https://tamagorengs.com/tags/Privilege-Escalation/"/>
+    <id>https://tamagorengs.com/2026/03/03/HTB-Facts-Writeup/</id>
+    <link href="https://tamagorengs.com/2026/03/03/HTB-Facts-Writeup/"/>
     <published>2026-03-03T14:57:06.000Z</published>
     <summary>
       <![CDATA[<p><strong>HTB Facts – Season 10 write-up (rephrased &#x2F; restructured version)</strong></p>
@@ -74,14 +74,14 @@
     <author>
       <name>TamaGorengs</name>
     </author>
-    <category term="Guides" scheme="https://tamagorengs.github.io/categories/Guides/"/>
-    <category term="Setup" scheme="https://tamagorengs.github.io/categories/Guides/Setup/"/>
-    <category term="Wireless" scheme="https://tamagorengs.github.io/tags/Wireless/"/>
-    <category term="Kali Linux" scheme="https://tamagorengs.github.io/tags/Kali-Linux/"/>
-    <category term="Hardware" scheme="https://tamagorengs.github.io/tags/Hardware/"/>
-    <category term="Wi-Fi Hacking" scheme="https://tamagorengs.github.io/tags/Wi-Fi-Hacking/"/>
-    <id>https://tamagorengs.github.io/2026/02/05/Setup-Alfa-AWUS036ACH-Wi-Fi-Adapter-on-Kali-Linux/</id>
-    <link href="https://tamagorengs.github.io/2026/02/05/Setup-Alfa-AWUS036ACH-Wi-Fi-Adapter-on-Kali-Linux/"/>
+    <category term="Guides" scheme="https://tamagorengs.com/categories/Guides/"/>
+    <category term="Setup" scheme="https://tamagorengs.com/categories/Guides/Setup/"/>
+    <category term="Wireless" scheme="https://tamagorengs.com/tags/Wireless/"/>
+    <category term="Kali Linux" scheme="https://tamagorengs.com/tags/Kali-Linux/"/>
+    <category term="Hardware" scheme="https://tamagorengs.com/tags/Hardware/"/>
+    <category term="Wi-Fi Hacking" scheme="https://tamagorengs.com/tags/Wi-Fi-Hacking/"/>
+    <id>https://tamagorengs.com/2026/02/05/Setup-Alfa-AWUS036ACH-Wi-Fi-Adapter-on-Kali-Linux/</id>
+    <link href="https://tamagorengs.com/2026/02/05/Setup-Alfa-AWUS036ACH-Wi-Fi-Adapter-on-Kali-Linux/"/>
     <published>2026-02-05T10:32:53.000Z</published>
     <summary>
       <![CDATA[<p>If you’re into wireless pentesting or ethical hacking, the Alfa AWUS036ACH is a go-to Wi-Fi adapter. It consistently ranks in the top 5]]>
@@ -93,16 +93,16 @@
     <author>
       <name>TamaGorengs</name>
     </author>
-    <category term="Guides" scheme="https://tamagorengs.github.io/categories/Guides/"/>
-    <category term="Mobile Security" scheme="https://tamagorengs.github.io/categories/Guides/Mobile-Security/"/>
-    <category term="Mobile" scheme="https://tamagorengs.github.io/tags/Mobile/"/>
-    <category term="iOS" scheme="https://tamagorengs.github.io/tags/iOS/"/>
-    <category term="Android" scheme="https://tamagorengs.github.io/tags/Android/"/>
-    <category term="Flutter" scheme="https://tamagorengs.github.io/tags/Flutter/"/>
-    <category term="Frida" scheme="https://tamagorengs.github.io/tags/Frida/"/>
-    <category term="MITM" scheme="https://tamagorengs.github.io/tags/MITM/"/>
-    <id>https://tamagorengs.github.io/2026/02/04/Intercepting-Flutter-Traffic-Mobile-Pentest-Guide/</id>
-    <link href="https://tamagorengs.github.io/2026/02/04/Intercepting-Flutter-Traffic-Mobile-Pentest-Guide/"/>
+    <category term="Guides" scheme="https://tamagorengs.com/categories/Guides/"/>
+    <category term="Mobile Security" scheme="https://tamagorengs.com/categories/Guides/Mobile-Security/"/>
+    <category term="Mobile" scheme="https://tamagorengs.com/tags/Mobile/"/>
+    <category term="iOS" scheme="https://tamagorengs.com/tags/iOS/"/>
+    <category term="Android" scheme="https://tamagorengs.com/tags/Android/"/>
+    <category term="Flutter" scheme="https://tamagorengs.com/tags/Flutter/"/>
+    <category term="Frida" scheme="https://tamagorengs.com/tags/Frida/"/>
+    <category term="MITM" scheme="https://tamagorengs.com/tags/MITM/"/>
+    <id>https://tamagorengs.com/2026/02/04/Intercepting-Flutter-Traffic-Mobile-Pentest-Guide/</id>
+    <link href="https://tamagorengs.com/2026/02/04/Intercepting-Flutter-Traffic-Mobile-Pentest-Guide/"/>
     <published>2026-02-04T15:49:00.000Z</published>
     <summary>
       <![CDATA[<p>Flutter apps are notoriously difficult to intercept—they ignore system proxies and use BoringSSL with custom certificate pinning. This]]>
@@ -114,13 +114,13 @@
     <author>
       <name>TamaGorengs</name>
     </author>
-    <category term="Writeups" scheme="https://tamagorengs.github.io/categories/Writeups/"/>
-    <category term="HackTheBox" scheme="https://tamagorengs.github.io/categories/Writeups/HackTheBox/"/>
-    <category term="HTB" scheme="https://tamagorengs.github.io/tags/HTB/"/>
-    <category term="Windows" scheme="https://tamagorengs.github.io/tags/Windows/"/>
-    <category term="EternalBlue" scheme="https://tamagorengs.github.io/tags/EternalBlue/"/>
-    <id>https://tamagorengs.github.io/2026/02/04/HTB-Blue-Writeup/</id>
-    <link href="https://tamagorengs.github.io/2026/02/04/HTB-Blue-Writeup/"/>
+    <category term="Writeups" scheme="https://tamagorengs.com/categories/Writeups/"/>
+    <category term="HackTheBox" scheme="https://tamagorengs.com/categories/Writeups/HackTheBox/"/>
+    <category term="HTB" scheme="https://tamagorengs.com/tags/HTB/"/>
+    <category term="Windows" scheme="https://tamagorengs.com/tags/Windows/"/>
+    <category term="EternalBlue" scheme="https://tamagorengs.com/tags/EternalBlue/"/>
+    <id>https://tamagorengs.com/2026/02/04/HTB-Blue-Writeup/</id>
+    <link href="https://tamagorengs.com/2026/02/04/HTB-Blue-Writeup/"/>
     <published>2026-02-04T15:22:17.000Z</published>
     <summary>
       <![CDATA[<p>Blue is a straightforward Windows box on HackTheBox, rated easy, that demonstrates the dangers of unpatched systems. We start with an]]>
@@ -132,11 +132,11 @@
     <author>
       <name>TamaGorengs</name>
     </author>
-    <category term="General" scheme="https://tamagorengs.github.io/categories/General/"/>
-    <category term="Introduction" scheme="https://tamagorengs.github.io/tags/Introduction/"/>
-    <category term="Career" scheme="https://tamagorengs.github.io/tags/Career/"/>
-    <id>https://tamagorengs.github.io/2026/02/04/Hello-World-Why-Tamago-Security/</id>
-    <link href="https://tamagorengs.github.io/2026/02/04/Hello-World-Why-Tamago-Security/"/>
+    <category term="General" scheme="https://tamagorengs.com/categories/General/"/>
+    <category term="Introduction" scheme="https://tamagorengs.com/tags/Introduction/"/>
+    <category term="Career" scheme="https://tamagorengs.com/tags/Career/"/>
+    <id>https://tamagorengs.com/2026/02/04/Hello-World-Why-Tamago-Security/</id>
+    <link href="https://tamagorengs.com/2026/02/04/Hello-World-Why-Tamago-Security/"/>
     <published>2026-02-04T12:09:40.000Z</published>
     <summary>
       <![CDATA[<p><strong>“1% better everyday.”</strong></p>
@@ -150,9 +150,9 @@
     <author>
       <name>TamaGorengs</name>
     </author>
-    <category term="Announcement" scheme="https://tamagorengs.github.io/tags/Announcement/"/>
-    <id>https://tamagorengs.github.io/2026/02/04/Welcome/</id>
-    <link href="https://tamagorengs.github.io/2026/02/04/Welcome/"/>
+    <category term="Announcement" scheme="https://tamagorengs.com/tags/Announcement/"/>
+    <id>https://tamagorengs.com/2026/02/04/Welcome/</id>
+    <link href="https://tamagorengs.com/2026/02/04/Welcome/"/>
     <published>2026-02-04T12:00:00.000Z</published>
     <summary>
       <![CDATA[<p>Welcome to my new blog! </p>
