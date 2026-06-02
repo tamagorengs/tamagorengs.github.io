@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>TamaGorengs</name>
+    <name>tamagorengs</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <icon>https://tamagorengs.com/icon.png</icon>
   <id>https://tamagorengs.com/</id>
   <link href="https://tamagorengs.com/" rel="alternate"/>
   <link href="https://tamagorengs.com/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, TamaGorengs</rights>
-  <title>Tamago Security</title>
+  <rights>All rights reserved 2026, tamagorengs</rights>
+  <title>tamago</title>
   <updated>2026-06-01T03:24:22.289Z</updated>
   <entry>
     <author>
-      <name>TamaGorengs</name>
+      <name>tamagorengs</name>
     </author>
     <category term="mindset" scheme="https://tamagorengs.com/categories/mindset/"/>
     <category term="philosophy" scheme="https://tamagorengs.com/categories/mindset/philosophy/"/>
@@ -35,7 +35,7 @@
   </entry>
   <entry>
     <author>
-      <name>TamaGorengs</name>
+      <name>tamagorengs</name>
     </author>
     <category term="General" scheme="https://tamagorengs.com/categories/General/"/>
     <category term="Career" scheme="https://tamagorengs.com/tags/Career/"/>
@@ -52,7 +52,7 @@
   </entry>
   <entry>
     <author>
-      <name>TamaGorengs</name>
+      <name>tamagorengs</name>
     </author>
     <category term="Writeups" scheme="https://tamagorengs.com/categories/Writeups/"/>
     <category term="HackTheBox" scheme="https://tamagorengs.com/categories/Writeups/HackTheBox/"/>
@@ -72,7 +72,7 @@
   </entry>
   <entry>
     <author>
-      <name>TamaGorengs</name>
+      <name>tamagorengs</name>
     </author>
     <category term="Guides" scheme="https://tamagorengs.com/categories/Guides/"/>
     <category term="Setup" scheme="https://tamagorengs.com/categories/Guides/Setup/"/>
@@ -91,7 +91,7 @@
   </entry>
   <entry>
     <author>
-      <name>TamaGorengs</name>
+      <name>tamagorengs</name>
     </author>
     <category term="Guides" scheme="https://tamagorengs.com/categories/Guides/"/>
     <category term="Mobile Security" scheme="https://tamagorengs.com/categories/Guides/Mobile-Security/"/>
@@ -112,7 +112,7 @@
   </entry>
   <entry>
     <author>
-      <name>TamaGorengs</name>
+      <name>tamagorengs</name>
     </author>
     <category term="Writeups" scheme="https://tamagorengs.com/categories/Writeups/"/>
     <category term="HackTheBox" scheme="https://tamagorengs.com/categories/Writeups/HackTheBox/"/>
@@ -130,7 +130,7 @@
   </entry>
   <entry>
     <author>
-      <name>TamaGorengs</name>
+      <name>tamagorengs</name>
     </author>
     <category term="General" scheme="https://tamagorengs.com/categories/General/"/>
     <category term="Introduction" scheme="https://tamagorengs.com/tags/Introduction/"/>
@@ -148,7 +148,7 @@
   </entry>
   <entry>
     <author>
-      <name>TamaGorengs</name>
+      <name>tamagorengs</name>
     </author>
     <category term="Announcement" scheme="https://tamagorengs.com/tags/Announcement/"/>
     <id>https://tamagorengs.com/2026/02/04/Welcome/</id>

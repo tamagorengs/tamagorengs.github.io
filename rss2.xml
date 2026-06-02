@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tamago Security</title>
+    <title>tamago</title>
     <link>https://tamagorengs.com/</link>
     <language>en</language>
-    <copyright>All rights reserved 2026, TamaGorengs</copyright>
+    <copyright>All rights reserved 2026, tamagorengs</copyright>
     <lastBuildDate>Mon, 01 Jun 2026 03:24:22 GMT</lastBuildDate>
     <generator>Hexo</generator>
     <image>
       <url>https://tamagorengs.com/icon.png</url>
-      <title>Tamago Security</title>
+      <title>tamago</title>
       <link>https://tamagorengs.com/</link>
     </image>
     <atom:link href="https://tamagorengs.com/rss2.xml" rel="self" type="application/rss+xml"/>
@@ -20,7 +20,7 @@
         <![CDATA[<h2 id="TL-DR"><a href="#TL-DR" class="headerlink" title="TL;DR"></a>TL;DR</h2><ul>
 <li><strong>Burnout is a goal you chose.</strong> You]]>
       </description>
-      <author>TamaGorengs</author>
+      <author>tamagorengs</author>
       <category domain="https://tamagorengs.com/categories/mindset/">mindset</category>
       <category domain="https://tamagorengs.com/categories/mindset/philosophy/">philosophy</category>
       <category domain="https://tamagorengs.com/categories/mindset/philosophy/shitpost-with-substance/">shitpost-with-substance</category>
@@ -37,7 +37,7 @@
       <description>
         <![CDATA[<p><strong>I once spent 20 minutes on a red team engagement searching for a Mimikatz command I had definitely written down]]>
       </description>
-      <author>TamaGorengs</author>
+      <author>tamagorengs</author>
       <category domain="https://tamagorengs.com/categories/General/">General</category>
       <category domain="https://tamagorengs.com/tags/Career/">Career</category>
       <category domain="https://tamagorengs.com/tags/Productivity/">Productivity</category>
@@ -51,7 +51,7 @@
         <![CDATA[<p><strong>HTB Facts – Season 10 write-up (rephrased &#x2F; restructured version)</strong></p>
 <p>Easy Linux box to open the season —]]>
       </description>
-      <author>TamaGorengs</author>
+      <author>tamagorengs</author>
       <category domain="https://tamagorengs.com/categories/Writeups/">Writeups</category>
       <category domain="https://tamagorengs.com/categories/Writeups/HackTheBox/">HackTheBox</category>
       <category domain="https://tamagorengs.com/tags/HTB/">HTB</category>
@@ -66,7 +66,7 @@
       <description>
         <![CDATA[<p>If you’re into wireless pentesting or ethical hacking, the Alfa AWUS036ACH is a go-to Wi-Fi adapter. It consistently ranks in the top 5]]>
       </description>
-      <author>TamaGorengs</author>
+      <author>tamagorengs</author>
       <category domain="https://tamagorengs.com/categories/Guides/">Guides</category>
       <category domain="https://tamagorengs.com/categories/Guides/Setup/">Setup</category>
       <category domain="https://tamagorengs.com/tags/Wireless/">Wireless</category>
@@ -81,7 +81,7 @@
       <description>
         <![CDATA[<p>Flutter apps are notoriously difficult to intercept—they ignore system proxies and use BoringSSL with custom certificate pinning. This]]>
       </description>
-      <author>TamaGorengs</author>
+      <author>tamagorengs</author>
       <category domain="https://tamagorengs.com/categories/Guides/">Guides</category>
       <category domain="https://tamagorengs.com/categories/Guides/Mobile-Security/">Mobile Security</category>
       <category domain="https://tamagorengs.com/tags/Mobile/">Mobile</category>
@@ -98,7 +98,7 @@
       <description>
         <![CDATA[<p>Blue is a straightforward Windows box on HackTheBox, rated easy, that demonstrates the dangers of unpatched systems. We start with an]]>
       </description>
-      <author>TamaGorengs</author>
+      <author>tamagorengs</author>
       <category domain="https://tamagorengs.com/categories/Writeups/">Writeups</category>
       <category domain="https://tamagorengs.com/categories/Writeups/HackTheBox/">HackTheBox</category>
       <category domain="https://tamagorengs.com/tags/HTB/">HTB</category>
@@ -114,7 +114,7 @@
 <p>That’s the core philosophy behind Tamago Security.</p>
 <p>Hi, I’m]]>
       </description>
-      <author>TamaGorengs</author>
+      <author>tamagorengs</author>
       <category domain="https://tamagorengs.com/categories/General/">General</category>
       <category domain="https://tamagorengs.com/tags/Introduction/">Introduction</category>
       <category domain="https://tamagorengs.com/tags/Career/">Career</category>
@@ -127,7 +127,7 @@
         <![CDATA[<p>Welcome to my new blog! </p>
 <p>I’m currently working on some HackTheBox writeups that will be published as soon as the machines]]>
       </description>
-      <author>TamaGorengs</author>
+      <author>tamagorengs</author>
       <category domain="https://tamagorengs.com/tags/Announcement/">Announcement</category>
       <pubDate>Wed, 04 Feb 2026 12:00:00 GMT</pubDate>
     </item>
