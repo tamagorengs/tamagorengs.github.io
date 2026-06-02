@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tamago Security</title>
-    <link>https://tamago.wtf/</link>
+    <link>https://tamagorengs.com/</link>
     <language>en</language>
     <copyright>All rights reserved 2026, TamaGorengs</copyright>
     <lastBuildDate>Mon, 01 Jun 2026 03:24:22 GMT</lastBuildDate>
     <generator>Hexo</generator>
     <image>
-      <url>https://tamago.wtf/icon.png</url>
+      <url>https://tamagorengs.com/icon.png</url>
       <title>Tamago Security</title>
-      <link>https://tamago.wtf/</link>
+      <link>https://tamagorengs.com/</link>
     </image>
-    <atom:link href="https://tamago.wtf/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://tamagorengs.com/rss2.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>What The Courage to Be Disliked Taught Me About Pentesting</title>
-      <link>https://tamago.wtf/2026/06/01/What-The-Courage-to-Be-Disliked-Taught-Me-About-Pentesting/</link>
+      <link>https://tamagorengs.com/2026/06/01/What-The-Courage-to-Be-Disliked-Taught-Me-About-Pentesting/</link>
       <description>
         <![CDATA[<h2 id="TL-DR"><a href="#TL-DR" class="headerlink" title="TL;DR"></a>TL;DR</h2><ul>
 <li><strong>Burnout is a goal you chose.</strong> You]]>
       </description>
       <author>TamaGorengs</author>
-      <category domain="https://tamago.wtf/categories/mindset/">mindset</category>
-      <category domain="https://tamago.wtf/categories/mindset/philosophy/">philosophy</category>
-      <category domain="https://tamago.wtf/categories/mindset/philosophy/shitpost-with-substance/">shitpost-with-substance</category>
-      <category domain="https://tamago.wtf/tags/redteam/">redteam</category>
-      <category domain="https://tamago.wtf/tags/pentest/">pentest</category>
-      <category domain="https://tamago.wtf/tags/adler/">adler</category>
-      <category domain="https://tamago.wtf/tags/burnout/">burnout</category>
-      <category domain="https://tamago.wtf/tags/courage-to-be-disliked/">courage-to-be-disliked</category>
+      <category domain="https://tamagorengs.com/categories/mindset/">mindset</category>
+      <category domain="https://tamagorengs.com/categories/mindset/philosophy/">philosophy</category>
+      <category domain="https://tamagorengs.com/categories/mindset/philosophy/shitpost-with-substance/">shitpost-with-substance</category>
+      <category domain="https://tamagorengs.com/tags/redteam/">redteam</category>
+      <category domain="https://tamagorengs.com/tags/pentest/">pentest</category>
+      <category domain="https://tamagorengs.com/tags/adler/">adler</category>
+      <category domain="https://tamagorengs.com/tags/burnout/">burnout</category>
+      <category domain="https://tamagorengs.com/tags/courage-to-be-disliked/">courage-to-be-disliked</category>
       <pubDate>Sun, 31 May 2026 16:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Obsidian for Hackers: How I Organize My Security Brain</title>
-      <link>https://tamago.wtf/2026/05/24/Obsidian-for-Hackers-How-I-Organize-My-Security-Brain/</link>
+      <link>https://tamagorengs.com/2026/05/24/Obsidian-for-Hackers-How-I-Organize-My-Security-Brain/</link>
       <description>
         <![CDATA[<p><strong>I once spent 20 minutes on a red team engagement searching for a Mimikatz command I had definitely written down]]>
       </description>
       <author>TamaGorengs</author>
-      <category domain="https://tamago.wtf/categories/General/">General</category>
-      <category domain="https://tamago.wtf/tags/Career/">Career</category>
-      <category domain="https://tamago.wtf/tags/Productivity/">Productivity</category>
-      <category domain="https://tamago.wtf/tags/Notes/">Notes</category>
+      <category domain="https://tamagorengs.com/categories/General/">General</category>
+      <category domain="https://tamagorengs.com/tags/Career/">Career</category>
+      <category domain="https://tamagorengs.com/tags/Productivity/">Productivity</category>
+      <category domain="https://tamagorengs.com/tags/Notes/">Notes</category>
       <pubDate>Sun, 24 May 2026 04:30:00 GMT</pubDate>
     </item>
     <item>
       <title>HTB - Facts Writeup</title>
-      <link>https://tamago.wtf/2026/03/03/HTB-Facts-Writeup/</link>
+      <link>https://tamagorengs.com/2026/03/03/HTB-Facts-Writeup/</link>
       <description>
         <![CDATA[<p><strong>HTB Facts – Season 10 write-up (rephrased &#x2F; restructured version)</strong></p>
 <p>Easy Linux box to open the season —]]>
       </description>
       <author>TamaGorengs</author>
-      <category domain="https://tamago.wtf/categories/Writeups/">Writeups</category>
-      <category domain="https://tamago.wtf/categories/Writeups/HackTheBox/">HackTheBox</category>
-      <category domain="https://tamago.wtf/tags/HTB/">HTB</category>
-      <category domain="https://tamago.wtf/tags/Linux/">Linux</category>
-      <category domain="https://tamago.wtf/tags/LFI/">LFI</category>
-      <category domain="https://tamago.wtf/tags/Privilege-Escalation/">Privilege Escalation</category>
+      <category domain="https://tamagorengs.com/categories/Writeups/">Writeups</category>
+      <category domain="https://tamagorengs.com/categories/Writeups/HackTheBox/">HackTheBox</category>
+      <category domain="https://tamagorengs.com/tags/HTB/">HTB</category>
+      <category domain="https://tamagorengs.com/tags/Linux/">Linux</category>
+      <category domain="https://tamagorengs.com/tags/LFI/">LFI</category>
+      <category domain="https://tamagorengs.com/tags/Privilege-Escalation/">Privilege Escalation</category>
       <pubDate>Tue, 03 Mar 2026 14:57:06 GMT</pubDate>
     </item>
     <item>
       <title>Setup Alfa AWUS036ACH Wi-Fi Adapter on Kali Linux</title>
-      <link>https://tamago.wtf/2026/02/05/Setup-Alfa-AWUS036ACH-Wi-Fi-Adapter-on-Kali-Linux/</link>
+      <link>https://tamagorengs.com/2026/02/05/Setup-Alfa-AWUS036ACH-Wi-Fi-Adapter-on-Kali-Linux/</link>
       <description>
         <![CDATA[<p>If you’re into wireless pentesting or ethical hacking, the Alfa AWUS036ACH is a go-to Wi-Fi adapter. It consistently ranks in the top 5]]>
       </description>
       <author>TamaGorengs</author>
-      <category domain="https://tamago.wtf/categories/Guides/">Guides</category>
-      <category domain="https://tamago.wtf/categories/Guides/Setup/">Setup</category>
-      <category domain="https://tamago.wtf/tags/Wireless/">Wireless</category>
-      <category domain="https://tamago.wtf/tags/Kali-Linux/">Kali Linux</category>
-      <category domain="https://tamago.wtf/tags/Hardware/">Hardware</category>
-      <category domain="https://tamago.wtf/tags/Wi-Fi-Hacking/">Wi-Fi Hacking</category>
+      <category domain="https://tamagorengs.com/categories/Guides/">Guides</category>
+      <category domain="https://tamagorengs.com/categories/Guides/Setup/">Setup</category>
+      <category domain="https://tamagorengs.com/tags/Wireless/">Wireless</category>
+      <category domain="https://tamagorengs.com/tags/Kali-Linux/">Kali Linux</category>
+      <category domain="https://tamagorengs.com/tags/Hardware/">Hardware</category>
+      <category domain="https://tamagorengs.com/tags/Wi-Fi-Hacking/">Wi-Fi Hacking</category>
       <pubDate>Thu, 05 Feb 2026 10:32:53 GMT</pubDate>
     </item>
     <item>
       <title>Intercepting Flutter Traffic on Mobile Applications</title>
-      <link>https://tamago.wtf/2026/02/04/Intercepting-Flutter-Traffic-Mobile-Pentest-Guide/</link>
+      <link>https://tamagorengs.com/2026/02/04/Intercepting-Flutter-Traffic-Mobile-Pentest-Guide/</link>
       <description>
         <![CDATA[<p>Flutter apps are notoriously difficult to intercept—they ignore system proxies and use BoringSSL with custom certificate pinning. This]]>
       </description>
       <author>TamaGorengs</author>
-      <category domain="https://tamago.wtf/categories/Guides/">Guides</category>
-      <category domain="https://tamago.wtf/categories/Guides/Mobile-Security/">Mobile Security</category>
-      <category domain="https://tamago.wtf/tags/Mobile/">Mobile</category>
-      <category domain="https://tamago.wtf/tags/iOS/">iOS</category>
-      <category domain="https://tamago.wtf/tags/Android/">Android</category>
-      <category domain="https://tamago.wtf/tags/Flutter/">Flutter</category>
-      <category domain="https://tamago.wtf/tags/Frida/">Frida</category>
-      <category domain="https://tamago.wtf/tags/MITM/">MITM</category>
+      <category domain="https://tamagorengs.com/categories/Guides/">Guides</category>
+      <category domain="https://tamagorengs.com/categories/Guides/Mobile-Security/">Mobile Security</category>
+      <category domain="https://tamagorengs.com/tags/Mobile/">Mobile</category>
+      <category domain="https://tamagorengs.com/tags/iOS/">iOS</category>
+      <category domain="https://tamagorengs.com/tags/Android/">Android</category>
+      <category domain="https://tamagorengs.com/tags/Flutter/">Flutter</category>
+      <category domain="https://tamagorengs.com/tags/Frida/">Frida</category>
+      <category domain="https://tamagorengs.com/tags/MITM/">MITM</category>
       <pubDate>Wed, 04 Feb 2026 15:49:00 GMT</pubDate>
     </item>
     <item>
       <title>HTB Blue Writeup</title>
-      <link>https://tamago.wtf/2026/02/04/HTB-Blue-Writeup/</link>
+      <link>https://tamagorengs.com/2026/02/04/HTB-Blue-Writeup/</link>
       <description>
         <![CDATA[<p>Blue is a straightforward Windows box on HackTheBox, rated easy, that demonstrates the dangers of unpatched systems. We start with an]]>
       </description>
       <author>TamaGorengs</author>
-      <category domain="https://tamago.wtf/categories/Writeups/">Writeups</category>
-      <category domain="https://tamago.wtf/categories/Writeups/HackTheBox/">HackTheBox</category>
-      <category domain="https://tamago.wtf/tags/HTB/">HTB</category>
-      <category domain="https://tamago.wtf/tags/Windows/">Windows</category>
-      <category domain="https://tamago.wtf/tags/EternalBlue/">EternalBlue</category>
+      <category domain="https://tamagorengs.com/categories/Writeups/">Writeups</category>
+      <category domain="https://tamagorengs.com/categories/Writeups/HackTheBox/">HackTheBox</category>
+      <category domain="https://tamagorengs.com/tags/HTB/">HTB</category>
+      <category domain="https://tamagorengs.com/tags/Windows/">Windows</category>
+      <category domain="https://tamagorengs.com/tags/EternalBlue/">EternalBlue</category>
       <pubDate>Wed, 04 Feb 2026 15:22:17 GMT</pubDate>
     </item>
     <item>
       <title>Hello World: Why Tamago Security?</title>
-      <link>https://tamago.wtf/2026/02/04/Hello-World-Why-Tamago-Security/</link>
+      <link>https://tamagorengs.com/2026/02/04/Hello-World-Why-Tamago-Security/</link>
       <description>
         <![CDATA[<p><strong>“1% better everyday.”</strong></p>
 <p>That’s the core philosophy behind Tamago Security.</p>
 <p>Hi, I’m]]>
       </description>
       <author>TamaGorengs</author>
-      <category domain="https://tamago.wtf/categories/General/">General</category>
-      <category domain="https://tamago.wtf/tags/Introduction/">Introduction</category>
-      <category domain="https://tamago.wtf/tags/Career/">Career</category>
+      <category domain="https://tamagorengs.com/categories/General/">General</category>
+      <category domain="https://tamagorengs.com/tags/Introduction/">Introduction</category>
+      <category domain="https://tamagorengs.com/tags/Career/">Career</category>
       <pubDate>Wed, 04 Feb 2026 12:09:40 GMT</pubDate>
     </item>
     <item>
       <title>Welcome to Tamago Security</title>
-      <link>https://tamago.wtf/2026/02/04/Welcome/</link>
+      <link>https://tamagorengs.com/2026/02/04/Welcome/</link>
       <description>
         <![CDATA[<p>Welcome to my new blog! </p>
 <p>I’m currently working on some HackTheBox writeups that will be published as soon as the machines]]>
       </description>
       <author>TamaGorengs</author>
-      <category domain="https://tamago.wtf/tags/Announcement/">Announcement</category>
+      <category domain="https://tamagorengs.com/tags/Announcement/">Announcement</category>
       <pubDate>Wed, 04 Feb 2026 12:00:00 GMT</pubDate>
     </item>
   </channel>
